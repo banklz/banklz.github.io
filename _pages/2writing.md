@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Writings
+title: 记录
 date: 2015-01-11 16:04:00 +0300
 permalink: /记录/
 image: duolin13.jpg
