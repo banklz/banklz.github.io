@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Experience
+title: 经历
 permalink: /经历/
 image: duolin01.jpg
 ---
