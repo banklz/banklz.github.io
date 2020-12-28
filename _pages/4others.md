@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Others
+title: 其他
 image: duolin02.jpg
-permalink: /others/
+permalink: /其他/
 ---
 
 
