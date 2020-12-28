@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-image: 1.2rcode.jpg
+image: 1.2rcode.JPG
 permalink: /contact/
 ---
 
