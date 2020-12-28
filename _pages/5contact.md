@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Contact
+title: 联系
 image: 1rode.jpg
-permalink: /contact/
+permalink: /联系/
 ---
 
 **Bank LC**
