@@ -2,7 +2,7 @@
 layout: page
 title: Vitae
 image: 69.JPG
-permalink: /vitae/
+permalink: /简介/
 ---
 
 
@@ -17,7 +17,7 @@ permalink: /vitae/
 
 ****
 
-Email: wfaugust@gmail.com
+Email: banklcj@gmail.com
 
-WeChat ID: w_fang158
+WeChat ID: xxxxxx
 
