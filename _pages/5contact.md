@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Contact
-image: 56.JPG
+image: 1qrcode.jpg
 permalink: /contact/
 ---
 
-**Fang Wang**
+**Bank LC**
 
-Email: wfaugust@gmail.com 
+Email: xxxxxxxx
 
-WeChat ID: w_fang158
+WeChat ID: xxxxxxxxx
 
