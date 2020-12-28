@@ -1,14 +1,14 @@
 #-------------------------------
 # General Site Settings
 
-title: F. W
-description: A pseudo physicist. # this means to ignore newlines until "baseurl:"
+title: L. C
+description: A pseudo Data-scientist. # this means to ignore newlines until "baseurl:"
 owner:
-  name: Fang Wang
-  url: "http://www.wang-axiom.com" # your URL
+  name: BANK
+  url: "http://www.banklz.cn" # your URL
 first_published: 2020 # if migrating another site, the year of your first publish
                       # Must be a 4-digit integer year (math is used on it)
-url: "http://www.wang-axiom.com" # the base hostname & protocol for this site
+url: "http:/www.banklz.cn" # the base hostname & protocol for this site
 baseurl: "" # the subpath of your site, e.g. /blog
             # Note you'll have to move your robots.txt to the root if you want it used.
             # And list multiple sitemaps if there are other subdirectories you want indexed
@@ -16,14 +16,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 #-------------------------------
 # About Section
-author-name:   Fang Wang
+author-name:   BANK 
 author-avatar: 01.jpg
 
 
 #-------------------------------
 # Contact links
-facebook:  https://www.facebook.com/profile.php?id=100005392728939 # Add your Facebook handle
-instagram: https://www.instagram.com/fang_wang1992/ # Add your Facebook handle
+facebook:  https://www.facebook.com/ # Add your Facebook handle
+instagram: https://www.instagram.com/ # Add your Facebook handle
 
 
 #-------------------------------
