@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Experience
-permalink: /Research/
+permalink: /经历/
 image: duolin01.jpg
 ---
 **Research Assistant**, 2014 – Present.  
