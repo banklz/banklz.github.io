@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-image: 1qrcode.png
+image: 1rode.jpg
 permalink: /contact/
 ---
 
