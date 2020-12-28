@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vitae
+title: 简介
 image: 69.JPG
 permalink: /简介/
 ---
