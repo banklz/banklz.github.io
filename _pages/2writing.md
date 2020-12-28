@@ -2,7 +2,7 @@
 layout: page
 title: Writings
 date: 2015-01-11 16:04:00 +0300
-permalink: /writings/
+permalink: /记录/
 image: duolin13.jpg
 ---
 **美国日记｜US Diaries.   2014 - Present**
