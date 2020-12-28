@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Others
-image: 40.JPG
+image: duolin13.jpg
 permalink: /others/
 ---
 
@@ -11,5 +11,5 @@ permalink: /others/
 
 Read(瞅瞅)  
 
-![]({{site.baseurl}}/img/Eden08.jpg)
+![]({{site.baseurl}}/img/duolin11.jpg)
 
