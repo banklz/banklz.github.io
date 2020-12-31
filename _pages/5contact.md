@@ -7,5 +7,7 @@ permalink: /联系/
 
 **Bank LC**
 
-WeChat ID: [](https://valentines.gitee.io)
+Email: banklc@gmail.com
+
+
 
