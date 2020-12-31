@@ -17,7 +17,6 @@ permalink: /简介/
 
 ****
 
-Email: banklcj@gmail.com
 
-WeChat ID: xxxxxx
+
 
