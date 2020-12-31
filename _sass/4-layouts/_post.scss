@@ -1,6 +1,6 @@
 // Post
  .post {
-   margin-bottom: 16px;
+   margin-bottom: 18px;
  }
 
  .post-image-box {
@@ -37,14 +37,14 @@
   box-shadow: 0 9px 18px 0 rgba(0,0,0,0.25);
 }
 .post-head, .post-body {
-  margin-bottom: 14px;
+  margin-bottom: 16px;
   border-bottom: 1px solid $border-color;
  }
 
  .post-head {
-   padding-bottom: 24px;
+   padding-bottom: 22px;
    .post-tag {
-     margin-bottom: 14px;
+     margin-bottom: 18px;
      text-align: center;
      .tag {
        display: inline-block;
@@ -126,7 +126,7 @@
 }
 .post-body {
   font-family: Arial, Helvetica, Tahoma, “Microsoft YaHei”, “微软雅黑”, sans-serif;
-  padding-bottom: 12px;
+  padding-bottom: 16px;
 }
 .post-share {
   padding: 10px 0;
