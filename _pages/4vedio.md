@@ -1,12 +1,11 @@
 ---
 layout: page
 title: 影像
-image: duolin02.jpg
 permalink: /4vedio/
+image: duolin02.jpg
 ---
-* * *  
 
-Watch(瞅瞅)  
+## Watch | 挪威の城市森林 | Norwegian City Wood
 
 <video width="100%" style="display:block; margin: 0 auto;" controls>
   <source src="/video/NorwegianWood.mp4" type="video/mp4">
@@ -14,6 +13,8 @@ Watch(瞅瞅)
   </object> 
 </video>
 <br>
+
+---
 
 
 
