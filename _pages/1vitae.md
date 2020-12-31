@@ -7,13 +7,13 @@ permalink: /简介/
 
 
 
-**Ph.D. Candidate** in Theoretical Physics, 2014 - Present.  
-*Stevens Institute of Technology*, Hoboken, NJ, United States
+**Ph.D. Candidate** In Jungle Society, 2016 - Present.  
+*Society Institute of Plunder*, Shenzhen, China Communist Party
 
 
 
-**B.S.** in Chemistry,  2014.  
-*University of Science and Technology of China (USTC)*, Hefei, China
+**B.S.** in Chemistry,  2012.  
+*University of XT of China (UXTC)*, XT, China
 
 ****
 
