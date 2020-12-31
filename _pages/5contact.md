@@ -7,7 +7,5 @@ permalink: /联系/
 
 **Bank LC**
 
-Email: xxxxxxxx
-
-WeChat ID: xxxxxxxxx
+WeChat ID: [](https://valentines.gitee.io)
 
