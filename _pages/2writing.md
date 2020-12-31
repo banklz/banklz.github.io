@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 记录
+title: 选集
 date: 2015-01-11 16:04:00 +0300
-permalink: /记录/
+permalink: /选集/
 image: duolin13.jpg
 ---
 **日记｜Diaries.   2014 - Present**
