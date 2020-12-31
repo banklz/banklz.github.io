@@ -1,6 +1,6 @@
 ---
 layout: page
-title: vedio
+title: 视频
 permalink: /4video/
 image: duolin02.jpg
 ---
@@ -14,9 +14,3 @@ image: duolin02.jpg
   </object> 
 </video>
 <br>
-
----
-
-
-
-
