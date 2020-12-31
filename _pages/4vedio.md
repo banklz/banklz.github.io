@@ -4,13 +4,9 @@ title: 影像
 image: duolin02.jpg
 permalink: /4vedio/
 ---
+* * *  
 
-
-
-****
-
-Read(瞅瞅)  
-![]({{site.baseurl}}/img/duolin03.jpg)
+Watch(瞅瞅)  
 
 <video width="100%" style="display:block; margin: 0 auto;" controls>
   <source src="/video/NorwegianWood.mp4" type="video/mp4">
