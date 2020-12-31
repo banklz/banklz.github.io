@@ -36,17 +36,17 @@
 }
 
 .post-content {
-  padding: 40px 15px;
+  padding: 16px 15px;
   box-shadow: 0 9px 18px 0 rgba(0,0,0,0.25);
 }
 
 .post-head, .post-body {
-  margin-bottom: 20px;
+  margin-bottom: 16px;
   border-bottom: 1px solid $border-color;
 }
 
 .post-head {
-  padding-bottom: 30px;
+  padding-bottom: 26px;
   .post-tag {
     margin-bottom: 20px;
     text-align: center;
@@ -71,7 +71,7 @@
     }
   }
   .post-title {
-    font-family: 'EB Garamond', serif;
+    font-family: Arial, Helvetica, Tahoma, “Microsoft YaHei”, “微软雅黑”, sans-serif;
     font-size: 28px;
     text-align: center;
     font-weight: normal;
@@ -132,8 +132,8 @@
 }
 
 .post-body {
-  font-family: 'EB Garamond', serif;
-  padding-bottom: 20px;
+  font-family: Arial, Helvetica, Tahoma, “Microsoft YaHei”, “微软雅黑”, sans-serif;
+  padding-bottom: 16px;
 }
 
 .post-share {
@@ -147,7 +147,7 @@
         color: $primary-color;
       }
       i.ion {
-        font-size: 20px;
+        font-size: 16px;
       }
     }
   }
