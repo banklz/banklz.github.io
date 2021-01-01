@@ -17,7 +17,7 @@ permalink: /简介/
 
 ****
 
-> ***<center>联系</center>***
+****<center>联系</center>****
 
 **Email:** banklc@gmail.com
 
