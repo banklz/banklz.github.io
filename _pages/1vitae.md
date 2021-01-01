@@ -17,9 +17,7 @@ permalink: /简介/
 
 ****
 
-
-<p><font size="5"><center>联系</center></font></p>
-
+** <center>联系</center> **
 Email: banklc@gmail.com
 
 WeChat: <center><a href="https://imgchr.com/i/rsXKYD"><img src="https://s3.ax1x.com/2020/12/23/rsXKYD.jpg" alt="qcode" border="0" /><br><center> ID 
