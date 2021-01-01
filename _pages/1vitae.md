@@ -18,7 +18,7 @@ permalink: /简介/
 ****
 
 
-<center><p><font size="10">联系</font></p><br></center>
+<p style='text-align: justify;'><font size="7">联系</font></p><br>
 
 Email: banklc@gmail.com
 
