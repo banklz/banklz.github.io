@@ -18,13 +18,8 @@ permalink: /简介/
 ****
 
 
-<center>*Connect Me*
+<center><p>* Connect Me *</p><br>
 
 Email: banklc@gmail.com
 
-<center>[![WeChat: ](https://s3.ax1x.com/2020/12/23/rsXKYD.jpg)](https://imgchr.com/i/rsXKYD)
-
-
-
-
-
+WeChat: <center><a href="https://imgchr.com/i/rsXKYD"><img src="https://s3.ax1x.com/2020/12/23/rsXKYD.jpg" alt="qcode" border="0" /> ID </a>
