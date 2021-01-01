@@ -18,7 +18,7 @@ permalink: /简介/
 ****
 
 
-<center><p><font size="28">Connect</font></p><br></center>
+<center><p><font size="18">Connect</font></p><br></center>
 
 Email: banklc@gmail.com
 
