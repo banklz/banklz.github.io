@@ -5,7 +5,7 @@ image: 10.jpg
 permalink: /改变/
 ---
 
-**By L.C**
+<center>**Influence By L.C**<\center>
 
 
 
