@@ -1,13 +1,13 @@
 ---
 layout: page
-title: 联系
-image: 1rode.jpg
-permalink: /联系/
+title: 改变
+image: 10.jpg
+permalink: /改变/
 ---
 
-**Bank LC**
+**By L.C**
 
-Email: banklc@gmail.com
+
 
 
 
