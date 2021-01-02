@@ -10,7 +10,7 @@ permalink: /简介/
 
 **B.S.** In Autumn,  2012. <br>
 *University of XT of China (UXTC)*, XT, China <br>
-<top><img src="/img/11.2.jpg" alt="" width="25%"></top>{:style="float: top; margin-right: 7px;margin-top: 7px;"}
+<img src="/img/11.2.jpg" alt="" width="10%">{:style="float: top; margin-right: 1px;margin-top: 1px;"}
 
 * * * 
 
@@ -22,9 +22,9 @@ permalink: /简介/
   
 ---
 <div class="table-container">
-<table bgcolor="#323248">
+<table style="background-color:#323248" color="white">
   <thread>
-    <tr><th bgcolor="#323248">热爱 </th><th bgcolor="#323248">专业 </th><th bgcolor="#323248">运动 </th><th bgcolor="#323248">书籍 Book </th></tr>
+    <tr><td bgcolor="#323248">热爱 </td><th bgcolor="#323248">专业 </td><td bgcolor="#323248">运动 </td><td bgcolor="#323248">书籍 Book </td></tr>
   </thread>
   <tbody>
     <tr><td bgcolor="#323248">家乡</td><td bgcolor="#323248">Pseudo AI </td><td bgcolor="#323248">篮球 </td><td bgcolor="#323248">毛选 </td></tr>
