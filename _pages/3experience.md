@@ -8,11 +8,8 @@ image: music01.jpg
 
 <center><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2175282&auto=1&height=66"></iframe><div>Rainbow</div><br>
 
-<div>
-<audio id="mp3" preload="auto" loop="false">
-  <source src="/video/rainbow.mp3" type="audio/mp3">
-</audio>
-</div>
+
+<center><iframe src="/vedio/rainbow.mp3" allow="autoplay" style="display:none" id="iframeAudio"></iframe>
 <br>
 
 
