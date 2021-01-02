@@ -11,7 +11,7 @@ permalink: /简介/
 *Society Institute of Plunder*, Shenzhen, China Communist Party
 <br><br>
 **B.S.** In Autumn,  2012.
-*University of XT of China (UXTC)*, XT, China | <img src="/img/11.3.jpg" alt="" height="20%" width="30%">{:style="float: right; margin-right: 7px;margin-top: 7px;"}
+*University of XT of China (UXTC)*, XT, China | <img src="/img/11.jpg" alt="" height="20%" width="30%">{:style="float: right; margin-right: 7px;margin-top: 7px;"}
 <br><br><br>  
 
 * * * 
@@ -25,7 +25,7 @@ permalink: /简介/
 ---
 
 <div>
-  <table border="0" bgcolor="#1a1a3d">{ background-color: #1a1a3d; }
+  <table border="0" bgcolor="#1a1a3d">
     <tr align="center"><td><big>热爱 </big></td><td><big>专业 </big></td><td><big>运动 </big></td><td><big>书籍 Book </big></td></tr>
     <tr align="center"><td>家乡</td><td>Pseudo AI 科学</td><td>篮球</td><td>毛选 </td></tr>
     <tr align="center"><td>风景</td><td>Data Scientist 数据科学 </td><td>钓鱼 </td><td>说谎者的扑克牌 </td></tr>
