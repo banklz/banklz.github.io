@@ -7,7 +7,9 @@ permalink: /简介/
 
 **Ph.D. Candidate** In Jungle Society, 2016 - Present.<br>
 *Society Institute of Plunder*, Shenzhen, China Communist Party <br>
-<img src="/img/11.2.jpg" alt="" width="5%">{:style="float: top; margin-right: 1px;margin-top: 1px;"}
+<br>
+<img src="/img/11.2.jpg" alt="" width="10%">{:style="float: right; margin-right: 1px;margin-top: 1px;"}
+<br>
 **B.S.** In Autumn,  2012. <br>
 *University of XT of China (UXTC)*, XT, China <br>
 
