@@ -5,14 +5,14 @@ image: 69.JPG
 permalink: /简介/
 ---
 
-**Ph.D. Candidate** In Jungle Society, 2016 - Present.  
-*Society Institute of Plunder*, Shenzhen, China Communist Party
+**Ph.D. Candidate** In Jungle Society, 2016 - Present.<br>
+*Society Institute of Plunder*, Shenzhen, China Communist Party <br>
 <br><br>
-**B.S.** In Autumn,  2012. 
+**B.S.** In Autumn,  2012. <br>
 *University of XT of China (UXTC)*, XT, China <br><br> 
 <div>
     <div style="float:right; clear: both;" align="right">
-        <img src="img/16.jpg" width="120" alt="" hspace="8"><br />
+        <img src="img/16.jpg" width="120" alt="" hspace="8">
     </div>
 </div>
 
