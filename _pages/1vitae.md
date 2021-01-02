@@ -5,7 +5,7 @@ image: 69.JPG
 permalink: /简介/
 ---
 
-<img src="/img/11.2.jpg" align="right" width="14%">{: style="float: top; margin-right: 1px;margin-top: 1px;"}
+<img src="/img/11.2.jpg" align="right" width="14%">{: style="float: top; margin-bottom: 1px; margin-right: 1px; margin-top: 1px;"}
 **Ph.D. Candidate** In Jungle Society, 2016 - Present.<br>
 *Society Institute of Plunder*, Shenzhen, China Communist Party <br>
 **B.S.** In Autumn,  2012. <br>
@@ -22,7 +22,7 @@ permalink: /简介/
   
 ---
 <div class="table-container">
-<table text="white">
+<table border="0" style="color:white;" >
   
     <tr><th bgcolor="#323248">热爱</th><th bgcolor="#323248">专业</th><th bgcolor="#323248">运动</th><th bgcolor="#323248">书籍</th></tr>
   
