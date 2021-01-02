@@ -9,7 +9,8 @@ permalink: /简介/
 *Society Institute of Plunder*, Shenzhen, China Communist Party <br>
 
 **B.S.** In Autumn,  2012. <br>
-*University of XT of China (UXTC)*, XT, China | <img src="/img/11.3.jpg" alt="" width="35%">{:style="float: top; margin-right: 7px;margin-top: 7px;"}
+*University of XT of China (UXTC)*, XT, China <br>
+<img src="/img/11.3.jpg" alt="" width="25%">{:style="float: right; margin-right: 7px;margin-top: 7px;"}
 
 * * * 
 
