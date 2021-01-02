@@ -13,7 +13,7 @@ permalink: /简介/
 
 
 **B.S.** in Chemistry,  2012.  
-*University of XT of China (UXTC)*, XT, China | <img src="/img/11.3.jpg" alt="" height ="60%" width="50%">{:style="float: top; margin-right: 7px;margin-top: 7px;"}
+*University of XT of China (UXTC)*, XT, China | <img src="/img/11.3.jpg" alt="" height ="43%" width="31%">{:style="float: top; margin-right: 7px;margin-top: 7px;"}
 
 ****
 
