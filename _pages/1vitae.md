@@ -13,7 +13,7 @@ permalink: /简介/
 
 
 **B.S.** in Chemistry,  2012.  
-*University of XT of China (UXTC)*, XT, China
+*University of XT of China (UXTC)*, XT, China | <img src="/img/11.jpg" alt="" width="100%">{:style="float: top; margin-right: 7px;margin-top: 7px;"}
 
 ****
 
@@ -22,3 +22,18 @@ permalink: /简介/
 **Email:** banklc@gmail.com
 
 **WeChat:** <center><a href="https://imgchr.com/i/rsXKYD"><img src="https://s3.ax1x.com/2020/12/23/rsXKYD.jpg" alt="qcode" border="0" /><br><center> ID 
+  
+  
+#### 其他 Others
+
+<div class="table-container">
+  <table>
+    <tr><td><small>热爱 </small></td><td><small>专业 </small></td><td><small>运动 </small></td><td><small>书籍 Book </small></td></tr>
+    <tr><td>家乡</td><td>Pseudo AI 科学家</td><td>篮球</td><td>毛选 </td></tr>
+    <tr><td>风景</td><td>Data Scientist 数据科学 </td><td>钓鱼 </td><td>说谎者的扑克牌 </td></tr>
+    <tr><td>自然</td><td> </td><td>乒乓球 </td></tr>
+    <tr><td>高山</td><td> </td><td>爬山 </td></tr>
+    <tr><td>流水</td><td> </td><td>风筝 </td></tr>
+    <tr><td>冰川/td><td> </td></tr>
+  </table>
+</div>
