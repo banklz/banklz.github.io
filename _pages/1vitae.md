@@ -22,11 +22,11 @@ permalink: /简介/
   
 ---
 <div class="table-container">
-<table text="white">
+<table color="white">
   <thread>
     <tr><th bgcolor="#323248">热爱</th><th bgcolor="#323248">专业</th><th bgcolor="#323248">运动</th><th bgcolor="#323248">书籍</th></tr>
   </thread>
-  <tbody color="white">
+  <tbody text="white">
     <tr><td bgcolor="#323248">家乡</td><td bgcolor="#323248">Pseudo AI</td><td bgcolor="#323248">篮球</td><td bgcolor="#323248">毛选</td></tr>
     <tr><td bgcolor="#323248">风景</td><td bgcolor="#323248">Data-Science</td><td bgcolor="#323248">钓鱼</td><td bgcolor="#323248">说谎者的扑克牌</td></tr>
     <tr><td bgcolor="#323248">自然</td><td bgcolor="#323248"> </td><td bgcolor="#323248">乒乓球</td><td bgcolor="#323248"> </td></tr>
