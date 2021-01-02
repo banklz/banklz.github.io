@@ -13,7 +13,7 @@ permalink: /简介/
 
 
 **B.S.** in Chemistry,  2012.  
-*University of XT of China (UXTC)*, XT, China | <img src="/img/11.jpg" alt="" width="100%">{:style="float: top; margin-right: 7px;margin-top: 7px;"}
+*University of XT of China (UXTC)*, XT, China | <img src="/img/11.jpg" alt="" heigth="20%" width="15%">{:style="float: top; margin-right: 7px;margin-top: 7px;"}
 
 ****
 
@@ -26,7 +26,7 @@ permalink: /简介/
   
 #### 其他 Others
 
-<div class="table-container">
+<div>
   <table>
     <tr><td><small>热爱 </small></td><td><small>专业 </small></td><td><small>运动 </small></td><td><small>书籍 Book </small></td></tr>
     <tr><td>家乡</td><td>Pseudo AI 科学家</td><td>篮球</td><td>毛选 </td></tr>
