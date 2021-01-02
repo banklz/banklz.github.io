@@ -10,10 +10,11 @@ permalink: /简介/
 <br><br>
 **B.S.** In Autumn,  2012. 
 *University of XT of China (UXTC)*, XT, China <br><br> 
-<p style="width:400px;">
-    <img src="/img/14.jpg" align="right" width="40%" hspace="5" vspace="5">
-    about
-</p>
+<div>
+    <div style="float:right; clear: both;" align="right">
+        <img src="img/16.jpg" width="120" alt="" hspace="8"><br />
+    </div>
+</div>
 
 
 * * * 
