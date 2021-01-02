@@ -6,7 +6,7 @@ image: music01.jpg
 ---
 **<center>Music is the reward of Acoustic Waves</center>**
 
-<center><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2175282&auto=1&height=66"></iframe><div>Music</div><br>
+<center><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2175282&auto=1&height=66"></iframe><div>Rainbow</div><br>
 
 <center><audio id="audio" controls="" preload="none">
   <source id="mp3" src="/video/rainbow.mp3">
