@@ -21,7 +21,7 @@ permalink: /简介/
   
 ---
 <div>
-<tbody>
+<table><tbody>
     <tr align="center" ><td>热爱 </td><td>专业 </td><td>运动 </td><td>书籍 Book </td></tr>
     <tr align="center" ><td>家乡</td><td>Pseudo AI </td><td>篮球 </td><td>毛选 </td></tr>
     <tr align="center" ><td>风景</td><td>Data-Science </td><td>钓鱼 </td><td>说谎者的扑克牌 </td></tr>
@@ -29,5 +29,6 @@ permalink: /简介/
     <tr align="center" ><td>高山</td><td> </td><td>爬山 </td><td> </td></tr>
     <tr align="center" ><td>流水</td><td> </td><td>风筝 </td><td> </td></tr>
     <tr align="center" bgcolor="#1a1a3d"><td>冰川</td><td> </td><td> </td><td> </td></tr>
+</table>
 </div>
 
