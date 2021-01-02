@@ -25,7 +25,7 @@ permalink: /简介/
   
   
 
-<div class="table-container>
+<div class="table-container">
   <table>
     <tr><td><big>热爱 </big></td><td><big>专业 </big></td><td><big>运动 </big></td><td><big>书籍 Book </big></td></tr>
     <tr><td>家乡</td><td>Pseudo AI 科学家</td><td>篮球</td><td>毛选 </td></tr>
