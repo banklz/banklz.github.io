@@ -20,8 +20,8 @@ permalink: /简介/
 **WeChat:** <center><a href="https://imgchr.com/i/rsXKYD"><img src="https://s3.ax1x.com/2020/12/23/rsXKYD.jpg" alt="qcode" border="0" /><br><center> ID 
   
 ---
-<div class="table-container" style="border: 0px solid;width:100px;" >
-<table frame=void border=0 bordercolor="#FF0000" style="color:aliceblue;" >
+<div class="table-container" style="border: 1px solid;width:100px;" >
+<table frame=void border=0 style="color:aliceblue;" >
   
     <tr><th bgcolor="#000000">热爱</th><th bgcolor="#323248">专业</th><th bgcolor="#323248">运动</th><th bgcolor="#323248">书籍</th></tr>
   
