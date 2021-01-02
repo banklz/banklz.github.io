@@ -9,7 +9,7 @@ image: music01.jpg
 <center><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2175282&auto=1&height=66"></iframe><div>Rainbow</div><br>
 
 
-<iframe src="/vedio/rainbow.mp3" allow="controls" style="display:none" id="iframeAudio"></iframe><button onclick="playAudio('Rainbow')" type="button">Play</button>
+<audio controls><iframe src="/vedio/rainbow.mp3" allow="autoplay" style="display:none" id="iframeAudio"></iframe><button onclick="playAudio('Rainbow')" type="button">Play/Stop The Audio</button></audio>
 <br><br>
 
 
