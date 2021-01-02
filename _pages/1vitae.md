@@ -8,11 +8,16 @@ permalink: /简介/
 
 <p style='text-align: justify;'></p>
 
-**Ph.D. Candidate** In Jungle Society, 2016 - Present.<br> 
-*Society Institute of Plunder*, Shenzhen, China Communist Party <br><br>
-<br>**B.S.** In Autumn,  2012. <br>
-*University of XT of China (UXTC)*, XT, China  | <img src="/img/14.jpg" alt="" width="25%">{:style="float: top; margin-left: 7px;margin-top: 0px;"}
-<br>
+<div style="width: 500px;">
+    <div style="float: right; clear: both;" align="center">
+        <img src="/img/14.jpg" width="120" alt="" hspace="8"><br />
+        About
+    </div>
+    <p><br>**Ph.D. Candidate** In Jungle Society, 2016 - Present.<br> 
+*Society Institute of Plunder*, Shenzhen, China Communist Party <br><br></p>
+    <p><br>**B.S.** In Autumn,  2012. <br>
+*University of XT of China (UXTC)*, XT, China  |</p>
+</div>
 
 * * * 
 
@@ -24,7 +29,7 @@ permalink: /简介/
   
 ---
 <div class="table-container">
-  <table border="1" style="color:orange;">
+  <table border="0" style="color:orange;" style="background-color:steelblue;">
     <tr align="center" ><td>热爱 </td><td>专业 </td><td>运动 </td><td>书籍 Book </td></tr>
     <tr align="center" ><td>家乡</td><td>Pseudo AI 科学 </td><td>篮球 </td><td>毛选 </td></tr>
     <tr align="center" ><td>风景</td><td>DataScience 数据科学 </td><td>钓鱼 </td><td>说谎者的扑克牌 </td></tr>
