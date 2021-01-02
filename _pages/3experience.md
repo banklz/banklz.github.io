@@ -10,7 +10,10 @@ image: music01.jpg
 
 <center>
 <audio preload="auto" autoplay="autoplay">
-  <sources rc="https://raw.githubusercontent.com/banklz/banklz.github.io/blob/master/vedio/rainbow.mp3" type="audio/mp3" /></audio>
+  <sources src="/vedio/rainbow.mp3" type="audio/mp3" />
+  <object data="/video/rainbow.mp3" width="720" height="480">
+  </object> 
+</audio>
 </center>
 <br><br>
 
