@@ -9,7 +9,8 @@ image: music01.jpg
 <center><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2175282&auto=1&height=66"></iframe><div>Rainbow</div><br>
 
 <center>
-<audio ref='rainbow' src="https://raw.githubusercontent.com/banklz/banklz.github.io/blob/master/vedio/rainbow.mp3" autoPlay loop></audio>
+<audio preload="auto" autoplay="autoplay">
+  <sources rc="https://raw.githubusercontent.com/banklz/banklz.github.io/blob/master/vedio/rainbow.mp3" type="audio/mp3" /></audio>
 </center>
 <br><br>
 
