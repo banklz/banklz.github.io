@@ -21,17 +21,17 @@ permalink: /简介/
   
 ---
 <div class="table-container">
-<table frame=void rules=none border="0" style="color:aliceblue;" >
+<table frame=void border=0 style="color:aliceblue;" >
   
     <tr><th bgcolor="#000000">热爱</th><th bgcolor="#323248">专业</th><th bgcolor="#323248">运动</th><th bgcolor="#323248">书籍</th></tr>
   
   
-    <tr><td bgcolor="#000000">家乡</td><td bgcolor="#323248">Pseudo AI</td><td bgcolor="#323248">篮球</td><td bgcolor="#323248">毛选</td></tr>
-    <tr><td bgcolor="#000000">风景</td><td bgcolor="#323248">Data-Science</td><td bgcolor="#323248">钓鱼</td><td bgcolor="#323248">说谎者的扑克牌</td></tr>
-    <tr><td bgcolor="#000000">自然</td><td bgcolor="#323248"> </td><td bgcolor="#323248">乒乓球</td><td bgcolor="#323248"> </td></tr>
-    <tr><td bgcolor="#000000">高山</td><td bgcolor="#323248"> </td><td bgcolor="#323248">爬山</td><td bgcolor="#323248"> </td></tr>
-    <tr><td bgcolor="#000000">流水</td><td bgcolor="#323248"> </td><td bgcolor="#323248">风筝</td><td bgcolor="#323248"> </td></tr>
-    <tr><td bgcolor="#000000">冰川</td><td bgcolor="#323248"> </td><td bgcolor="#323248"> </td><td bgcolor="#323248"> </td></tr>
+    <tr><td bgcolor="#323248">家乡</td><td bgcolor="#323248">Pseudo AI</td><td bgcolor="#323248">篮球</td><td bgcolor="#323248">毛选</td></tr>
+    <tr><td bgcolor="#323248">风景</td><td bgcolor="#323248">Data-Science</td><td bgcolor="#323248">钓鱼</td><td bgcolor="#323248">说谎者的扑克牌</td></tr>
+    <tr><td bgcolor="#323248">自然</td><td bgcolor="#323248"> </td><td bgcolor="#323248">乒乓球</td><td bgcolor="#323248"> </td></tr>
+    <tr><td bgcolor="#323248">高山</td><td bgcolor="#323248"> </td><td bgcolor="#323248">爬山</td><td bgcolor="#323248"> </td></tr>
+    <tr><td bgcolor="#323248">流水</td><td bgcolor="#323248"> </td><td bgcolor="#323248">风筝</td><td bgcolor="#323248"> </td></tr>
+    <tr><td bgcolor="#323248">冰川</td><td bgcolor="#323248"> </td><td bgcolor="#323248"> </td><td bgcolor="#323248"> </td></tr>
  
 </table>
 </div>
