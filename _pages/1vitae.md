@@ -10,7 +10,7 @@ permalink: /简介/
 
 **B.S.** In Autumn,  2012. <br>
 *University of XT of China (UXTC)*, XT, China <br>
-<right><img src="/img/11.2.jpg" alt="" width="25%"></right>{:style="float: top; margin-right: 7px;margin-top: 7px;"}
+<top><img src="/img/11.2.jpg" alt="" width="25%"></top>{:style="float: top; margin-right: 7px;margin-top: 7px;"}
 
 * * * 
 
@@ -22,18 +22,17 @@ permalink: /简介/
   
 ---
 <div class="table-container">
-<table>
+<table bgcolor="#323248">
   <thread>
-    <tr align="center" ><th>热爱 </th><th>专业 </th><th>运动 </th><th>书籍 Book </th></tr>
+    <tr><th bgcolor="#323248">热爱 </th><th bgcolor="#323248">专业 </th><th bgcolor="#323248">运动 </th><th bgcolor="#323248">书籍 Book </th></tr>
   </thread>
   <tbody>
     <tr><td bgcolor="#323248">家乡</td><td bgcolor="#323248">Pseudo AI </td><td bgcolor="#323248">篮球 </td><td bgcolor="#323248">毛选 </td></tr>
-    <tr><td bgcolor="#323248">风景</td><td bgcolor="#323248">Data-Science </td><td>钓鱼 </td><td>说谎者的扑克牌 </td></tr>
-    <tr><td bgcolor="#323248">自然</td><td bgcolor="#323248"> </td><td>乒乓球 </td><td> </td></tr>
-    <tr><td bgcolor="#323248">高山</td><td bgcolor="#323248"> </td><td>爬山 </td><td> </td></tr>
-    <tr><td bgcolor="#323248">流水</td><td bgcolor="#323248"> </td><td>风筝 </td><td> </td></tr>
-    <tr><td bgcolor="#323248">冰川</td><td bgcolor="#323248"> </td><td> </td><td> </td></tr>
+    <tr><td bgcolor="#323248">风景</td><td bgcolor="#323248">Data-Science </td><td bgcolor="#323248">钓鱼 </td><td bgcolor="#323248">说谎者的扑克牌 </td></tr>
+    <tr><td bgcolor="#323248">自然</td><td bgcolor="#323248"> </td><td bgcolor="#323248">乒乓球 </td><td bgcolor="#323248"> </td></tr>
+    <tr><td bgcolor="#323248">高山</td><td bgcolor="#323248"> </td><td bgcolor="#323248">爬山 </td><td bgcolor="#323248"> </td></tr>
+    <tr><td bgcolor="#323248">流水</td><td bgcolor="#323248"> </td><td bgcolor="#323248">风筝 </td><td bgcolor="#323248"> </td></tr>
+    <tr><td bgcolor="#323248">冰川</td><td bgcolor="#323248"> </td><td bgcolor="#323248"> </td><td bgcolor="#323248"> </td></tr>
   </tbody>
 </table>
 </div>
-
