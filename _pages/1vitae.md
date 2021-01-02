@@ -7,10 +7,10 @@ permalink: /简介/
 
 **Ph.D. Candidate** In Jungle Society, 2016 - Present.<br>
 *Society Institute of Plunder*, Shenzhen, China Communist Party <br>
-
+<img src="/img/11.2.jpg" alt="" width="5%">{:style="float: top; margin-right: 1px;margin-top: 1px;"}
 **B.S.** In Autumn,  2012. <br>
 *University of XT of China (UXTC)*, XT, China <br>
-<img src="/img/11.2.jpg" alt="" width="5%">{:style="float: top; margin-right: 1px;margin-top: 1px;"}
+
 
 * * * 
 
@@ -22,9 +22,9 @@ permalink: /简介/
   
 ---
 <div class="table-container">
-<table color="white">
+<table bgcolor="white">
   <thread>
-    <tr><td bgcolor="#323248">热爱 </td><th bgcolor="#323248">专业 </td><td bgcolor="#323248">运动 </td><td bgcolor="#323248">书籍 Book </td></tr>
+    <tr><th bgcolor="#323248">热爱 </th><th bgcolor="#323248">专业 </th><th bgcolor="#323248">运动 </th><th bgcolor="#323248">书籍 Book </th></tr>
   </thread>
   <tbody>
     <tr><td bgcolor="#323248">家乡</td><td bgcolor="#323248">Pseudo AI </td><td bgcolor="#323248">篮球 </td><td bgcolor="#323248">毛选 </td></tr>
