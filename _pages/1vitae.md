@@ -14,7 +14,7 @@ permalink: /简介/
 
 **B.S.** In Autumn,  2012.
 <p style='text-align: justify;'></p>
-*University of XT of China (UXTC)*, XT, China | <img src="/img/11.3.jpg" alt="" height ="37%" width="30%">{:style="float: top; margin-right: 7px;margin-top: 7px;"}
+*University of XT of China (UXTC)*, XT, China | <img src="/img/11.3.jpg" alt="" height ="37%" width="30%">{:style="float: right; margin-right: 7px;margin-top: 7px;"}
 
 ****
 
