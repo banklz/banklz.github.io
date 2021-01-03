@@ -15,14 +15,6 @@ permalink: /简介/
   
 ---
 
-<div class="container">
-  <img src="https://s3.ax1x.com/2020/12/23/rsXKYD.jpg" alt="Norway" style="width:100%;">
-  <div class="bottom-right">Nature</div>
-</div>
-
----
-
-
 <div>
 <table frame=void border=0 align=center style="color:aliceblue;">
     <tr><td bgcolor="#232428" style="border:none;">热爱</td><td bgcolor="#232428" style="border:none;">专业</td><td bgcolor="#232428" style="border:none;">运动</td><td bgcolor="#232428" style="border:none;">书籍</td></tr>
