@@ -21,8 +21,8 @@ permalink: /简介/
 **WeChat:** <center><a href="https://imgchr.com/i/rsXKYD"><img src="https://s3.ax1x.com/2020/12/23/rsXKYD.jpg" alt="qcode" border="0" /><br><center> ID 
   
 ---
-<div class="table-container" style="border-style: 0 " >
-<table frame=void border=0 rules=none cellspacing=0 align=center style="color:aliceblue;">
+<div class="table-container" style="border:0;" >
+<table frame=void border=0 rules=none cellspacing=0 cellpadding=0 align=center style="color:aliceblue; border:0;">
     <tr><th bgcolor="#232428">热爱</th><th bgcolor="#323248">专业</th><th bgcolor="#323248">运动</th><th bgcolor="#323248">书籍</th></tr>
     <tr><td bgcolor="#232428">家乡</td><td bgcolor="#232428">Pseudo AI</td><td bgcolor="#232428">篮球</td><td bgcolor="#232428">毛选</td></tr>
     <tr><td bgcolor="#232428">风景</td><td bgcolor="#232428">Data-Science</td><td bgcolor="#232428">钓鱼</td><td bgcolor="#232428">说谎者的扑克牌</td></tr>
