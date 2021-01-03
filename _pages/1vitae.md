@@ -7,11 +7,11 @@ permalink: /简介/
 
 <img src="https://s3.ax1x.com/2020/12/23/rsXKYD.jpg" align="right" width="15%">{: style="float: top; margin-bottom: 7px; margin-right: 1px; margin-top: 1px;"}
 **Ph.D. Candidate** In Jungle Society, 2016 - Present.<br>
-*Society Institute of Plunder*, Shenzhen, China Communist Party <br>
+*Society Institute of Plunder*, Shenzhen, China Communist Party <br><br>
 **B.S.** In Autumn,  2012. <br>
-*University of XT of China (UXTC)*, XT, China <br>
+*University of XT of China (UXTC)*, XT, China <br><br>
 **Email:** banklc@gmail.com <br>
-**<p align="right"> WeChat: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>**
+<p align="right"> &nbsp; WeChat: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
   
 ---
 <div>
@@ -25,3 +25,7 @@ permalink: /简介/
     <tr><td bgcolor="#232428">冰川</td><td bgcolor="#232428"> </td><td bgcolor="#232428"> </td><td bgcolor="#232428"> </td></tr> 
 </table>
 </div>
+
+aa|bb|cc
+--|--|--
+ee|ff|gg 
