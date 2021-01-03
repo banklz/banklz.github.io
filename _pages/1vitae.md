@@ -17,7 +17,7 @@ permalink: /简介/
 
 <div class="container">
   <img src="https://s3.ax1x.com/2020/12/23/rsXKYD.jpg" alt="Norway" style="width:100%;">
-  <div class="bottom">Nature</div>
+  <div class="bottom-right">Nature</div>
 </div>
 
 ---
