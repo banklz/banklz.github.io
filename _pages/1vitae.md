@@ -11,7 +11,7 @@ permalink: /简介/
 **B.S.** In Autumn,  2012. <br>
 *University of XT of China (UXTC)*, XT, China <br>
 **Email:** banklc@gmail.com <br>
-**<p align="right" margin-right: 20px; margin-top: 1px;>WeChat:</p>**
+**<p align="right">WeChat:     </p>**
   
 ---
 <div style=" border-collapse: collapse; border: none;" >
