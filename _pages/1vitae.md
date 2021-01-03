@@ -12,11 +12,10 @@ permalink: /简介/
 *University of XT of China (UXTC)*, XT, China <br>
 **Email:** banklc@gmail.com <br>
 **<font size="4.5"><right>WeChat:</right></font>**
-* * * 
   
 ---
 <div class="table-container" style="border:0;" >
-<table frame=void border=0 rules=none cellspacing=0 cellpadding=0 align=center style="color:aliceblue;">
+<table frame=void border=0 cellspacing="0" cellpadding="0" align=center style="color:aliceblue;">
     <tr><th bgcolor="#232428">热爱</th><th bgcolor="#323248">专业</th><th bgcolor="#323248">运动</th><th bgcolor="#323248">书籍</th></tr>
     <tr><td bgcolor="#232428">家乡</td><td bgcolor="#232428">Pseudo AI</td><td bgcolor="#232428">篮球</td><td bgcolor="#232428">毛选</td></tr>
     <tr><td bgcolor="#232428">风景</td><td bgcolor="#232428">Data-Science</td><td bgcolor="#232428">钓鱼</td><td bgcolor="#232428">说谎者的扑克牌</td></tr>
@@ -24,5 +23,5 @@ permalink: /简介/
     <tr><td bgcolor="#232428">高山</td><td bgcolor="#232428"> </td><td bgcolor="#232428">爬山</td><td bgcolor="#232428"> </td></tr>
     <tr><td bgcolor="#232428">流水</td><td bgcolor="#232428"> </td><td bgcolor="#232428">风筝</td><td bgcolor="#232428"> </td></tr>
     <tr><td bgcolor="#232428">冰川</td><td bgcolor="#232428"> </td><td bgcolor="#232428"> </td><td bgcolor="#232428"> </td></tr> 
-</table>
+</table>{border: none;}
 </div>
