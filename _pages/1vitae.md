@@ -5,8 +5,7 @@ image: 69.JPG
 permalink: /简介/
 ---
 
-<img src="https://s3.ax1x.com/2020/12/23/rsXKYD.jpg" align="right" width="18%">
-<p align="right">WeChat: &nbsp;&nbsp;&nbsp;&nbsp;</p>{: style="float: right; margin-bottom: 1px; margin-right: 3px; margin-top: 10px;"}
+<img src="https://s3.ax1x.com/2020/12/23/rsXKYD.jpg" align="right" width="18%">we | {: style="float: top; margin-bottom: 1px; margin-right: 3px; margin-top: 7px;"}
 **Ph.D. Candidate** In Jungle Society, 2016 - Present.<br>
 *Society Institute of Plunder*, Shenzhen, China Communist Party <br><br>
 **B.S.** In Autumn,  2012. <br>
