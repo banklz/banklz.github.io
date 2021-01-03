@@ -15,10 +15,13 @@ permalink: /简介/
   
 ---
 
-<div style="position: relative; width: 170px; height: 89px;">
-<img src="https://s3.ax1x.com/2020/12/23/rsXKYD.jpg" align="right" width="18%" alt="">
-<span style="position: right; top: 0; left: 0;">添加文字...添加文字...添加文字...</span>
-</div>  
+<div class="container">
+  <img src="https://s3.ax1x.com/2020/12/23/rsXKYD.jpg" alt="Norway" style="width:100%;">
+  <div class="text-block">
+    <h4>Nature</h4>
+    <p>What a beautiful sunrise</p>
+  </div>
+</div>
 
 ---
 
