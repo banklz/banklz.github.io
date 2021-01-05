@@ -9,7 +9,7 @@ permalink: /改变/
 
 <iframe src="/vedio/rainbow.mp3" allow="autoplay" style="display:none" id="iframeAudio"></iframe>
 
-如果你想听到掌声，就该进马戏团！
+<center>如果你想听到掌声，就该进马戏团！
 
 
 
