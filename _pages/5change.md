@@ -13,7 +13,8 @@ permalink: /改变/
   
 <br>
 
-<iframe src="http://docs.google.com/gview?url= https://github.com/banklz/banklz.github.io/raw/master/vedio/%E4%B8%AD%E5%9B%BDK12%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2%E5%B8%82%E5%9C%BA%E8%B0%83%E7%A0%94%20%E5%8F%8A%E7%94%A8%E6%88%B7%E6%B6%88%E8%B4%B9%E8%A1%8C%E4%B8%BA%E6%8A%A5%E5%91%8A.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
+<iframe src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=https://github.com/banklz/banklz.github.io/raw/master/vedio/%E4%B8%AD%E5%9B%BDK12%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2%E5%B8%82%E5%9C%BA%E8%B0%83%E7%A0%94%20%E5%8F%8A%E7%94%A8%E6%88%B7%E6%B6%88%E8%B4%B9%E8%A1%8C%E4%B8%BA%E6%8A%A5%E5%91%8A.pdf" style="width:500px; height:375px;"></iframe>
 
 <br>
 
