@@ -11,6 +11,6 @@ permalink: /改变/
 
 <center>如果你想听到掌声，就该进马戏团！
   
-<a href="vedio/中国K12在线教育市场调研 及用户消费行为报告.pdf" class="image fit"><img src="img/14.jpg" alt=""></a>
+[get the PDF]({{ site.url }}/vedio/中国K12在线教育市场调研 及用户消费行为报告.pdf)
 
 
