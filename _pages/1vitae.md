@@ -15,8 +15,8 @@ permalink: /简介/
 ---
 
 <div>
-<table frame=void border=0 align=center style="color:aliceblue; font-size:18px;">
-    <tr><td bgcolor="#232428" style="border:none;">热爱</td><td bgcolor="#232428" style="border:none;">专业</td><td bgcolor="#232428" style="border:none;">运动</td><td bgcolor="#232428" style="border:none;">书籍</td></tr>
+<table frame=void border=0 align=center style="color:aliceblue; font-size:7px;">
+    <tr><td bgcolor="#232428" style="border:none; font-size:7px;">热爱</td><td bgcolor="#232428" style="border:none;">专业</td><td bgcolor="#232428" style="border:none;">运动</td><td bgcolor="#232428" style="border:none;">书籍</td></tr>
     <tr><td bgcolor="#232428" style="border:none;">家乡</td><td bgcolor="#232428" style="border:none;">Pseudo AI</td><td bgcolor="#232428" style="border:none;">篮球</td><td bgcolor="#232428" style="border:none;">毛选</td></tr>
     <tr><td bgcolor="#232428" style="border:none;">风景</td><td bgcolor="#232428" style="border:none;">Data-Science</td><td bgcolor="#232428" style="border:none;">钓鱼</td><td bgcolor="#232428" style="border:none;">说谎者的扑克牌</td></tr>
     <tr><td bgcolor="#232428" style="border:none;">自然</td><td bgcolor="#232428" style="border:none;">Beauty Identification</td><td bgcolor="#232428" style="border:none;">乒乓球</td><td bgcolor="#232428" style="border:none;"> </td></tr>
