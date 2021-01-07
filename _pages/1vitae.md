@@ -16,12 +16,12 @@ permalink: /简介/
 
 <div>
 <table frame=void border=0 align=center style="color:aliceblue; font-size:7px;">
-    <tr><td bgcolor="#232428" style="border:none; font-size:7px;">热爱</td><td bgcolor="#232428" style="border:none;">专业</td><td bgcolor="#232428" style="border:none;">运动</td><td bgcolor="#232428" style="border:none;">书籍</td></tr>
-    <tr><td bgcolor="#232428" style="border:none;">家乡</td><td bgcolor="#232428" style="border:none;">Pseudo AI</td><td bgcolor="#232428" style="border:none;">篮球</td><td bgcolor="#232428" style="border:none;">毛选</td></tr>
-    <tr><td bgcolor="#232428" style="border:none;">风景</td><td bgcolor="#232428" style="border:none;">Data-Science</td><td bgcolor="#232428" style="border:none;">钓鱼</td><td bgcolor="#232428" style="border:none;">说谎者的扑克牌</td></tr>
-    <tr><td bgcolor="#232428" style="border:none;">自然</td><td bgcolor="#232428" style="border:none;">Beauty Identification</td><td bgcolor="#232428" style="border:none;">乒乓球</td><td bgcolor="#232428" style="border:none;"> </td></tr>
-    <tr><td bgcolor="#232428" style="border:none;">高山</td><td bgcolor="#232428" style="border:none;"> </td><td bgcolor="#232428" style="border:none;">爬山</td><td bgcolor="#232428" style="border:none;"> </td></tr>
-    <tr><td bgcolor="#232428" style="border:none;">流水</td><td bgcolor="#232428" style="border:none;"> </td><td bgcolor="#232428" style="border:none;">风筝</td><td bgcolor="#232428" style="border:none;"> </td></tr>
-    <tr><td bgcolor="#232428" style="border:none;">冰川</td></tr> 
+    <tr><td bgcolor="#232428" style="border:none; font-size:16px;">热爱</td><td bgcolor="#232428" style="border:none; font-size:16px;">专业</td><td bgcolor="#232428" style="border:none; font-size:16px;">运动</td><td bgcolor="#232428" style="border:none; font-size:16px;">书籍</td></tr>
+    <tr><td bgcolor="#232428" style="border:none; font-size:16px;">家乡</td><td bgcolor="#232428" style="border:none; font-size:16px;">Pseudo AI</td><td bgcolor="#232428" style="border:none; font-size:16px;">篮球</td><td bgcolor="#232428" style="border:none; font-size:16px;">毛选</td></tr>
+    <tr><td bgcolor="#232428" style="border:none; font-size:16px;">风景</td><td bgcolor="#232428" style="border:none; font-size:16px;">Data-Science</td><td bgcolor="#232428" style="border:none; font-size:16px;">钓鱼</td><td bgcolor="#232428" style="border:none; font-size:16px;">说谎者的扑克牌</td></tr>
+    <tr><td bgcolor="#232428" style="border:none; font-size:16px;">自然</td><td bgcolor="#232428" style="border:none; font-size:16px;">Beauty Identification</td><td bgcolor="#232428" style="border:none; font-size:16px;">乒乓球</td><td bgcolor="#232428" style="border:none; font-size:16px;"> </td></tr>
+    <tr><td bgcolor="#232428" style="border:none; font-size:16px;">高山</td><td bgcolor="#232428" style="border:none; font-size:16px;"> </td><td bgcolor="#232428" style="border:none; font-size:16px;">爬山</td><td bgcolor="#232428" style="border:none; font-size:16px;"> </td></tr>
+    <tr><td bgcolor="#232428" style="border:none; font-size:16px;">流水</td><td bgcolor="#232428" style="border:none; font-size:16px;"> </td><td bgcolor="#232428" style="border:none; font-size:16px;">风筝</td><td bgcolor="#232428" style="border:none; font-size:16px;"> </td></tr>
+    <tr><td bgcolor="#232428" style="border:none; font-size:16px;">冰川</td></tr> 
 </table>
 </div>
