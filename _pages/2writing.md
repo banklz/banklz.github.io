@@ -16,7 +16,7 @@ image: duolin13.jpg
 [“豳诗漫与，笑篱落呼灯，世间儿女。”](https://wang-axiom.com/writings18)   
 [人间喜剧](https://wang-axiom.com/writings19)   
 [念兹在兹](https://wang-axiom.com/writings20)   
-[随想录（一）](https://wang-axiom.com/writings22)   
+[随想录（一）](https://www.banklz.cn/%E9%9A%8F%E6%83%B3%E5%BD%9501)   
 [随想录（二）](https://wang-axiom.com/writings30)   
 [随想录（三）](https://wang-axiom.com/writings24)   
 [随想录（四）](https://wang-axiom.com/writings25)   
