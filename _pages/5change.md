@@ -15,28 +15,28 @@ permalink: /改变/
 
 <center>
 <iframe src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://github.com/banklz/banklz.github.io/raw/master/vedio/1%E5%8D%B7.pdf" frameborder="0" width="100%" height=400>
+viewer?embedded=true&url=https://github.com/banklz/banklz.github.io/raw/master/vedio/1%E5%8D%B7.pdf" frameborder="0" width="100%" height=642>
 <object data="/vedio/1卷.pdf" width="100%" height="100%" type="application/pdf"></object>
 </iframe>
 
 <br>
 <center>
 <iframe src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://github.com/banklz/banklz.github.io/raw/master/vedio/2%E5%8D%B7.pdf" frameborder="0" width="100%" height=400>
+viewer?embedded=true&url=https://github.com/banklz/banklz.github.io/raw/master/vedio/2%E5%8D%B7.pdf" frameborder="0" width="100%" height=642>
 <object data="/vedio/2卷.pdf" width="100%" height="100%" type="application/pdf"></object>
 </iframe>
 
 <br>
 <center>
 <iframe src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://github.com/banklz/banklz.github.io/raw/master/vedio/3%E5%8D%B7.pdf" frameborder="0" width="100%" height=400>
+viewer?embedded=true&url=https://github.com/banklz/banklz.github.io/raw/master/vedio/3%E5%8D%B7.pdf" frameborder="0" width="100%" height=642>
 <object data="/vedio/3卷.pdf" width="100%" height="100%" type="application/pdf"></object>
 </iframe>
 
 <br>
 <center>
 <iframe src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://github.com/banklz/banklz.github.io/raw/master/vedio/4%E5%8D%B7.pdf" frameborder="0" width="100%" height=400>
+viewer?embedded=true&url=https://github.com/banklz/banklz.github.io/raw/master/vedio/4%E5%8D%B7.pdf" frameborder="0" width="100%" height=642>
 <object data="/vedio/4卷.pdf" width="100%" height="100%" type="application/pdf"></object>
 </iframe>
 
