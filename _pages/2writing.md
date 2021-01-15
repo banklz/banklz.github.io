@@ -7,7 +7,7 @@ image: duolin13.jpg
 ---
 **日记｜Diaries.   2014 - Present**
 
-[致异乡女](https://wang-axiom.com/writings11)  
+[云月.题](https://www.banklz.cn/%E6%97%A5%E8%AE%B001)  
 [Strangers don't cry](https://wang-axiom.com/writings12)  
 [新房客](https://wang-axiom.com/writings13)  
 [也是心为身役](https://wang-axiom.com/writings14)  
@@ -27,9 +27,9 @@ image: duolin13.jpg
 
 ****
 
-**琐碎集｜All Trivia.   2010 - 2014**
+**琐碎集｜All Trivia.   2010 - 2021**
 
-[2010-04-10旧文](https://wang-axiom.com/writings01)  
+[2020-12-20自然演化过程](https://www.banklz.cn/%E8%AF%84%E8%AE%BA01)  
 [2011-08-12旧文](https://wang-axiom.com/writings02)  
 [2012-03-10旧文](https://wang-axiom.com/writings03)  
 [2012-04-30旧文](https://wang-axiom.com/writings04)  
