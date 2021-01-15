@@ -43,11 +43,8 @@ image: duolin13.jpg
 ****
 
 **读书笔记｜Book Notes**
-
-[Tithonus](https://wang-axiom.com/writings34)    
-[Requiem K. 626 Intro + Lyrics](https://wang-axiom.com/writings28)  
-[A Free Man's Worship](https://wang-axiom.com/writings17)   
-[Comment on 'Fear and Trembling'](https://wang-axiom.com/writings32)   
-[Supreme Surrender--浅谈 "纯真年代"](https://wang-axiom.com/writings33)    
+ 
+[A Free Man's Worship](https://wang-axiom.com/writings17)    
+[DeepLearning Tourist](https://www.banklz.cn/%E6%91%98%E5%BD%9502/)    
 [On the Feeling of Immortality in Youth](https://wang-axiom.com/writings23)
 
