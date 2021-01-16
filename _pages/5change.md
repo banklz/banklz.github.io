@@ -47,5 +47,3 @@ viewer?embedded=true&url=https://github.com/banklz/banklz.github.io/raw/master/v
 <object data="/vedio/5卷.pdf" width="100%" height=642 type="application/pdf"></object>
 </iframe>
 
-<br>
-<object data="/vedio/中国K12在线教育市场调研 及用户消费行为报告.pdf" width="100%" height="100%" type="application/pdf"></object>
