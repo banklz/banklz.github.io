@@ -19,3 +19,6 @@ image: music01.jpg
 
 
 <center><iframe width="100%" height="330.5" src="https://app.powerbi.cn/view?r=eyJrIjoiMDk5MDU0YWUtZjc5MS00ODgyLThhYjItYTdkZDg2ZDIyOGUyIiwidCI6IjcwZDJjMTI5LTllMzEtNDJkNC05MGNjLWQ5OWI3ZGM2NTUxYiJ9" frameborder="0" allowFullScreen="true"></iframe><div>Two</div>
+  
+<br>
+<object data="/vedio/中国K12在线教育市场调研 及用户消费行为报告.pdf" width="100%" height="100%" type="application/pdf"></object>
