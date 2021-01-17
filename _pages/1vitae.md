@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 简介
-image: 22.png
+image: 23.jpeg
 permalink: /简介/
 ---
 
