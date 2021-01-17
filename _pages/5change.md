@@ -43,7 +43,7 @@ viewer?embedded=true&url=https://github.com/banklz/banklz.github.io/raw/master/v
 
 <br>
 <center>
-<iframe src="/vedio/5卷.pdf" width="100%" height=642 type="application/pdf">
-<object data="/vedio/5卷.pdf" width="100%" height=642 type="application/pdf"></object>
+<iframe src="/vedio/5.1卷.pdf" width="100%" height=642 type="application/pdf">
+<object data="/vedio/5.1卷.pdf" width="100%" height=642 type="application/pdf"></object>
 </iframe>
 
