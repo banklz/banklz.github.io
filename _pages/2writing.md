@@ -9,7 +9,7 @@ image: duolin13.jpg
 
 [云月.题](https://www.banklz.cn/%E6%97%A5%E8%AE%B001)  
 [Strangers don't cry](https://wang-axiom.com/writings12)  
-[新房客](https://wang-axiom.com/writings13)  
+[￥10](https://www.banklz.cn/%E6%97%A5%E8%AE%B002)  
 [也是心为身役](https://wang-axiom.com/writings14)  
 [生活里落落大方的姿态](https://wang-axiom.com/writings15)  
 [与夏虫语于冰](https://wang-axiom.com/writings16)  
