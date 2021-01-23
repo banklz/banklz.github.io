@@ -3,7 +3,7 @@ layout: page
 title: 选集
 date: 2015-01-11 16:04:00 +0300
 permalink: /选集/
-image: 30.1.jpg
+image: 24.jpg
 ---
 **日记｜Diaries.   2020 - Present**
 
@@ -12,6 +12,7 @@ image: 30.1.jpg
 [随想录（二）](https://www.banklz.cn/writings02/)   
 [随想录（三）](https://www.banklz.cn/Writing03/)    
 [随想录（六）](https://www.banklz.cn/writing06/)   
+
 ****
 
 **琐碎集｜All Trivia**
