@@ -12,6 +12,10 @@ image: music01.jpg
 
 <br>
 <center><div>Business Analysis</div><iframe width="100%" height="330.5" src="https://app.powerbi.cn/view?r=eyJrIjoiMDk5MDU0YWUtZjc5MS00ODgyLThhYjItYTdkZDg2ZDIyOGUyIiwidCI6IjcwZDJjMTI5LTllMzEtNDJkNC05MGNjLWQ5OWI3ZGM2NTUxYiJ9" frameborder="0" allowFullScreen="true"></iframe>
+  
+<br>
+<center><div>Visual-Award</div>
+<iframe width="100%" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOTI1NjI5ZWMtMjI5Zi00YmU2LTgzNjYtM2FmMTg4NjFjZWIwIiwidCI6IjJhYzk2NmMzLTZjMmEtNDk5NS05YmRiLTM5ZmEyMDI4MmFhNyJ9&pageName=ReportSection36c1e538b1bb3ec0b80f" frameborder="0" allowFullScreen="true"></iframe>
 
 <br><br><br>
 <audio controls="controls">
