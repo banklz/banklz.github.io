@@ -1,16 +1,14 @@
 ---
 layout: page
 title: 改变
-image: 13.jpg
+image: 27.jpg
 permalink: /改变/
 ---
 
 **<center> INFLUENCE </center>**
 
-<iframe src="/vedio/rainbow.mp3" allow="autoplay" style="display:none" id="iframeAudio"></iframe>
-
-<center>如果你想听到掌声，就该进马戏团！<br>  
-Life is not about being better than someone else. It's about being better than you used to be and discovering who you truly are </center>
+<center>Life is not about being better than someone else. It's about being better than you used to be and <br>
+discovering who you truly are </center>
   
 <br>
 
