@@ -7,8 +7,7 @@ image: 30.1.png
 ---
 **日记｜Diaries.   2020 - Present**
 
-[云月.题](https://www.banklz.cn/writing04/)  
-[言清行浊](https://www.banklz.cn/comment02/)  
+[云月.题](https://www.banklz.cn/writing04/)   
 [衷情](https://www.banklz.cn/writing07/)  
 [随想录（二）](https://www.banklz.cn/writings02/)   
 [随想录（三）](https://www.banklz.cn/Writing03/)    
@@ -18,7 +17,7 @@ image: 30.1.png
 **琐碎集｜All Trivia**
 
 [2020-12-20自然演化过程](https://www.banklz.cn/writing05/)  
-
+[言清行浊](https://www.banklz.cn/comment02/) 
 
 ****
 
