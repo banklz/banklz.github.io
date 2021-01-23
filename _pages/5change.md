@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: 改变
-image: 10.jpg
+image: 13.jpg
 permalink: /改变/
 ---
 
