@@ -2,7 +2,7 @@
 layout: page
 title: 视频
 permalink: /4video/
-image: 30.jpg
+image: 29.jpg
 ---
 
 <center>Video Recording | 挪威の城市森林 | Norwegian City Wood
