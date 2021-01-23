@@ -5,46 +5,25 @@ date: 2015-01-11 16:04:00 +0300
 permalink: /选集/
 image: 30.1.png
 ---
-**日记｜Diaries.   2014 - Present**
+**日记｜Diaries.   2020 - Present**
 
-[云月.题](https://www.banklz.cn/%E6%97%A5%E8%AE%B001)  
-[Strangers don't cry](https://wang-axiom.com/writings12)  
-[￥10](https://www.banklz.cn/%E6%97%A5%E8%AE%B002)  
-[也是心为身役](https://wang-axiom.com/writings14)  
-[生活里落落大方的姿态](https://wang-axiom.com/writings15)  
-[与夏虫语于冰](https://wang-axiom.com/writings16)  
-[“豳诗漫与，笑篱落呼灯，世间儿女。”](https://wang-axiom.com/writings18)   
-[人间喜剧](https://wang-axiom.com/writings19)   
-[念兹在兹](https://wang-axiom.com/writings20)   
-[随想录（一）](https://www.banklz.cn/%E9%9A%8F%E6%83%B3%E5%BD%9501)   
-[随想录（二）](https://wang-axiom.com/writings30)   
-[随想录（三）](https://wang-axiom.com/writings24)   
-[随想录（四）](https://wang-axiom.com/writings25)   
-[随想录（五）](https://wang-axiom.com/writings35)  
-[随想录（六）](https://wang-axiom.com/writings27)   
-[Strong Opinions I](https://wang-axiom.com/writings31)   
-[随想录（七）](https://wang-axiom.com/writings29) 
-
+[云月.题](https://www.banklz.cn/writing04/)  
+[言清行浊](https://www.banklz.cn/comment02/)  
+[衷情](https://www.banklz.cn/writing07/)  
+[随想录（二）](https://www.banklz.cn/writings02/)   
+[随想录（三）](https://www.banklz.cn/Writing03/)    
+[随想录（六）](https://www.banklz.cn/writing06/)   
 ****
 
-**琐碎集｜All Trivia.   2010 - 2021**
+**琐碎集｜All Trivia**
 
-[2020-12-20自然演化过程](https://www.banklz.cn/%E8%AF%84%E8%AE%BA01)  
-[2011-08-12旧文](https://wang-axiom.com/writings02)  
-[2012-03-10旧文](https://wang-axiom.com/writings03)  
-[2012-04-30旧文](https://wang-axiom.com/writings04)  
-[2012-05-26旧文](https://wang-axiom.com/writings05)    
-[2012-08-12旧文](https://wang-axiom.com/writings06)  
-[2013-01-01旧文](https://wang-axiom.com/writings07)  
-[2013, A Year of No Significance ](https://wang-axiom.com/writings08)  
-[2013-03-09旧文](https://wang-axiom.com/writings09)   
-[2013-05-26旧文](https://wang-axiom.com/writings10)   
+[2020-12-20自然演化过程](https://www.banklz.cn/writing05/)  
+
 
 ****
 
 **读书笔记｜Book Notes**
- 
-[A Free Man's Worship](https://wang-axiom.com/writings17)    
-[DeepLearning Tourist](https://www.banklz.cn/%E6%91%98%E5%BD%9502/)    
-[On the Feeling of Immortality in Youth](https://wang-axiom.com/writings23)
+
+[DeepLearning Tourist](https://www.banklz.cn/experience01/)    
+
 
