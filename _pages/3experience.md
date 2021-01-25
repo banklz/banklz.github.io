@@ -29,4 +29,4 @@ image: music01.jpg
 
 <br>
 
-![](/img/simple_detection.gif)
+<img src="/img/simple_detection.gif" />
