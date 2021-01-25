@@ -26,3 +26,5 @@ image: music01.jpg
 <br><br><br>
 
 <object data="/vedio/中国K12在线教育市场调研 及用户消费行为报告.pdf" width="100%" height="100%" type="application/pdf"></object>
+<br>
+![](https://github.com/banklz/banklz.github.io/raw/master/img/simple_detection.gif)
