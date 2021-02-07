@@ -4,7 +4,7 @@ title: 经历
 permalink: /经历/
 image: music01.jpg
 ---
-**<center>The Reward of Acoustic Waves</center>**
+**<center>Acoustic Waves</center>**
 
 <center><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="100%" src="//music.163.com/outchain/player?type=2&id=96113&auto=1&height=66"></iframe>
 
