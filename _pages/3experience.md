@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 经历
-permalink: /经历/
+permalink: /experience/
 image: music01.jpg
 ---
 **<center>Acoustic Waves</center>**
