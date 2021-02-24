@@ -2,7 +2,7 @@
 layout: page
 title: 简介
 image: 32.jpg
-permalink: /简介/
+permalink: /introduce/
 ---
 
 <img src="https://s3.ax1x.com/2020/12/23/rsXKYD.jpg" align="right" width="20%">{: style="float: top; margin-bottom: 1px; margin-right: 1px; margin-top: 1px;"}
