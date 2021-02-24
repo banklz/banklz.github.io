@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 视频
-permalink: /4video/
+permalink: /video/
 image: duolin04.jpg
 ---
 
