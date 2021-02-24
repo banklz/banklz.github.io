@@ -2,7 +2,7 @@
 layout: page
 title: 改变
 image: 27.jpg
-permalink: /改变/
+permalink: /others/
 ---
 
 **<center> INFLUENCE </center>**
