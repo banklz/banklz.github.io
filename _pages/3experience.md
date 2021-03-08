@@ -8,11 +8,11 @@ image: music01.jpg
 
 <center><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="100%" src="//music.163.com/outchain/player?type=2&id=96113&auto=1&height=66"></iframe>
 
-<center><div>Big_Data Query</div><iframe width="100%" height="330.5" src="https://app.powerbi.cn/view?r=eyJrIjoiZGY5YTg2N2EtM2FmNy00NmI4LWFjZjctYjhiZDBiZGI0MzRjIiwidCI6IjcwZDJjMTI5LTllMzEtNDJkNC05MGNjLWQ5OWI3ZGM2NTUxYiJ9&pageName=ReportSection46aead5f0d31c9f7254b" frameborder="0" allowFullScreen="true"></iframe>
+<center><div>Big_Data Query</div><iframe width="100%" height="330.5" src="https://app.powerbi.cn/view?r=eyJrIjoiNzZlNWU4NTEtMGUwYS00OTRmLThjZjctMTMyZDFiN2Y2YmEzIiwidCI6IjcwZDJjMTI5LTllMzEtNDJkNC05MGNjLWQ5OWI3ZGM2NTUxYiJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 <br>
-<center><div>Business Analysis</div><iframe width="100%" height="330.5" src="https://app.powerbi.cn/view?r=eyJrIjoiMDk5MDU0YWUtZjc5MS00ODgyLThhYjItYTdkZDg2ZDIyOGUyIiwidCI6IjcwZDJjMTI5LTllMzEtNDJkNC05MGNjLWQ5OWI3ZGM2NTUxYiJ9" frameborder="0" allowFullScreen="true"></iframe>
-  
+<center><div>Business Analysis</div><iframe width="100%" height="330.5" src="https://app.powerbi.cn/view?r=eyJrIjoiOTRkODA1MmItMzI0ZS00NGM1LTg2NmEtMzAwM2YzNzJmODk4IiwidCI6IjcwZDJjMTI5LTllMzEtNDJkNC05MGNjLWQ5OWI3ZGM2NTUxYiJ9" frameborder="0" allowFullScreen="true"></iframe>
+ 
 <br>
 <center><div>Visual-Award</div>
 <iframe width="100%" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOTI1NjI5ZWMtMjI5Zi00YmU2LTgzNjYtM2FmMTg4NjFjZWIwIiwidCI6IjJhYzk2NmMzLTZjMmEtNDk5NS05YmRiLTM5ZmEyMDI4MmFhNyJ9&pageName=ReportSection36c1e538b1bb3ec0b80f" frameborder="0" allowFullScreen="true"></iframe>
