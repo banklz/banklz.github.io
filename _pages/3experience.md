@@ -10,7 +10,7 @@ image: music01.jpg
 
 <img src="/img/TransferLearning.gif" />
 <br><br>
-<div align='center' ><font size='30'>基于CNN的简单图像分类应用</font></div>
+<div align='center' ><font size=2>基于CNN的简单图像分类应用</font></div>
 <img src="/img/simple_detection.gif" />
 <br><br>
 
