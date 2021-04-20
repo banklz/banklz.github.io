@@ -6,7 +6,7 @@ image: music01.jpg
 ---
 **<center>本页所有内容均可复现，但本站未开放，暂为个人近期演示使用，部分内容需要密码才能查阅，使用演示可联系本人！</center>**  
 
-## <center>基于迁移学习的多物体检测和本地少量分类图片的个性化图像分类应用</center>
+<div align='center' ><font size='70'>基于迁移学习的多物体检测和本地少量分类图片的个性化图像分类应用</font></div>
 
 <img src="/img/TransferLearning.gif" />
 <br><br>
