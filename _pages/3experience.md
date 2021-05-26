@@ -13,7 +13,7 @@ image: music01.jpg
 <div align='center' ><font size=5>基于CNN的简单图像分类应用</font></div>
 <img src="/img/simple_detection.gif" />
 <br><br>
-<div align='center' ><font size=5>鲁迅写作风格的文本生成/font></div>
+<div align='center' ><font size=5>鲁迅写作风格的文本生成</font></div>
 <img src="/img/text_generate.gif" />
 <br><br>
 <!--
