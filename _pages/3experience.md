@@ -14,6 +14,13 @@ image: music01.jpg
 <img src="/img/simple_detection.gif" />
 <br><br>
 
+<p align="center">基于少量文章训练的文本生成</p>
+
+<img src="/img/text_generate.gif" />
+<br><br>
+<div align='center' ><font size=5>鲁迅写作风格的文本生成/font></div>
+<img src="/img/simple_detection.gif" />
+<br><br>
 <!--
 <br>
 <center>Acoustic Waves</center>
