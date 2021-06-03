@@ -15,7 +15,8 @@ image: music01.jpg
 <br><br>
 <div align='center' ><font size=5>鲁迅写作风格的文本生成</font></div>
 <img src="/img/text_generate.gif" />
-<br><br>
+<br><br>  
+
 <!--
 <br>
 <center>Acoustic Waves</center>
