@@ -16,6 +16,10 @@ image: music01.jpg
 <div align='center' ><font size=5>鲁迅写作风格的文本生成</font></div>
 <img src="/img/text_generate.gif" />
 <br><br>  
+<br><br>
+<div align='center' ><font size=5>实时图像识别</font></div>
+<img src="/img/迁移学习实时图像识别imageinference.gif" />
+<br><br>  
 
 <!--
 <br>
