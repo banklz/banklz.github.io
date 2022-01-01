@@ -9,9 +9,8 @@ permalink: /introduce/
 **Free.Dang Candidate** In Jungle Society, 2016 - Present.<br>
 *Society Institute of Plunder*, Shenzhen, China Communist Party <br><br>
 **B.S.** In Autumn,  2012. <br>
-*University of XT of China (UXTC)*, XT, China <br><br>
+*University of XT of China (UXTC)*, XT, China <br>
 **Email:** banklc@gmail.com
-  
 ---
 
 <div>
