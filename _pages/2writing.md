@@ -12,6 +12,7 @@ image: duolin13.jpg
 [随想录（二）](https://www.banklz.cn/writings02/)   
 [随想录（三）](https://www.banklz.cn/Writing03/)    
 [随想录（六）](https://www.banklz.cn/writing06/)   
+[从心开始](https://www.banklz.cn/Diary03/)  
 
 ****
 
