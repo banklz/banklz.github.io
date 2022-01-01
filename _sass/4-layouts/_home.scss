@@ -1,11 +1,11 @@
 // Header
 .header {
   margin-bottom: 30px;
-  background: #ABCC14;
+  background: $black;
 }
 
 .header, .header-box {
-  height: 50px;
+  height: 60px;
 }
 
 .header-box {
@@ -15,14 +15,14 @@
   align-items: center;
   .logo-title {
     .logo-text {
-      font-size: 10px;
+      font-size: 20px;
       font-weight: 700;
       line-height: 16px;
       text-transform: uppercase;
       letter-spacing: 5px;
       color: $text;
       &:hover {
-        color: #ABCC14;
+        color: #ffffff;
       }
     }
   }
