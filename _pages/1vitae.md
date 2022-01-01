@@ -11,6 +11,7 @@ permalink: /introduce/
 **B.S.** In Autumn,  2012. <br>
 *University of XT of China (UXTC)*, XT, China <br>
 **Email:** banklc@gmail.com
+
 ---
 
 <div>
