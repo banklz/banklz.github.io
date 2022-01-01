@@ -4,7 +4,7 @@
 }
 
 .page-image-box {
-  background: $black;
+  background: #014541;
   &.reveal-in {
     .page-image {
       opacity: 1;
@@ -18,7 +18,7 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-color: $black;
+  background-color: #014541;
   box-shadow: 0 9px 18px 0 rgba(0,0,0,0.25);
   opacity: 0;
   transition: all 1s cubic-bezier(0.6, 0.3, 0, 1);
@@ -26,7 +26,7 @@
     content: "";
     display: table;
     width: 100%;
-    padding-top: 50%;
+    padding-top: 100%;
   }
 }
 
