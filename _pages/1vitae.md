@@ -7,9 +7,9 @@ permalink: /introduce/
 
 <img src="https://raw.githubusercontent.com/banklz/banklz.github.io/master/img/cowboy.jpg" align="right" width="20%">{: style="float: top; margin-bottom: 1px; margin-right: 1px; margin-top: 1px;"}
 **Free.Dang Candidate** In Jungle Society, 2016 - Present.<br>
-*Society Institute of Plunder*, Shenzhen, China Communist Party <br>
+*Society Institute of Plunder*, Shenzhen, China Communist Party <br><br>
 **B.S.** In Autumn,  2012. <br>
-*University of XT of China (UXTC)*, XT, China <br>
+*University of XT of China (UXTC)*, XT, China <br><br>
 **Email:** banklc@gmail.com
 
 ---
