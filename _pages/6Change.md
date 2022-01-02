@@ -6,6 +6,6 @@ permalink: /change/
 ---
 
 ![]({{site.baseurl}}/img/calfborn.jpg)  
-<center>The future world will change because of somebody's arrival</center>
+**<center><font face="黑体" color="#99E080">The future world will change because of somebody's arrival</font></center>**
 
 
