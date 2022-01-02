@@ -4,7 +4,7 @@ title: 视频
 permalink: /video/
 image: 41.jpg
 ---
-<center>Video Recording | Go Home From City To Rural
+<center>Video Recording | Go Home | From City To Rural
 
 <video width="100%" style="display:block; margin: 0 auto;" controls>
   <source src="/vedio/train.mp4" type="video/mp4">
