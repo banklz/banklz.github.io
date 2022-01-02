@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 改变
-image: 40.jpg
+image: 童年3.jpg
 permalink: /change/
 ---
 <iframe src="/vedio/解忧曲.mp3" loop="true" style="display:none"></iframe>
@@ -13,4 +13,4 @@ permalink: /change/
 <br>
 ![]({{site.baseurl}}/img/童年2.jpg) 
 <br>
-**<center><font face="黑体" color="#99E080">The childhood of a naughty master</font></center>**
+<p>The love from a naughty mother<img src="https://raw.githubusercontent.com/banklz/banklz.github.io/master/img/love.jpg" align="middle" width="100%"></p>
