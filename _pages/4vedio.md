@@ -11,7 +11,7 @@ image: 41.jpg
   <object data="/vedio/train.mp4" width="400" height="275">
   </object> 
 </video>  
-  
+<br><br> 
 
 <center>Other Videos | 挪威の城市森林 | Norwegian City Wood
 
