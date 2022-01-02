@@ -2,7 +2,7 @@
 layout: page
 title: 经历
 permalink: /experience/
-image: 42.jpg
+image: 40.jpg
 ---
 **<center>本页所有内容均可复现，但本站未开放，暂为个人近期演示使用，部分内容需要密码才能查阅，使用演示可联系本人！</center>**  
 
