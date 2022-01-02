@@ -12,5 +12,5 @@ permalink: /change/
 **<center><font face="黑体" color="#99E080">And two months later he came</font></center>**
 <br>
 ![]({{site.baseurl}}/img/童年2.jpg) 
+<br>
 **<center><font face="黑体" color="#99E080">The childhood of a naughty master</font></center>**
-
