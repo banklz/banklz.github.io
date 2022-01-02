@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 童年
-image: cowboy.jpg
+title: Childhood
+image: 童年.jpg
 permalink: /childhood/
 ---
-![]({{site.baseurl}}/img/童年.jpg)
-
-****
+<center>The future world will change because of somebody's arrival</center>
+![]({{site.baseurl}}/img/calfborn.jpg)
 <center>The childhood of a naughty master </center>
+
 
