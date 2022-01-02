@@ -3,7 +3,7 @@ layout: page
 title: 选集
 date: 2015-01-11 16:04:00 +0300
 permalink: /writing/
-image: duolin13.jpg
+image: 39.jpg
 ---
 **日记｜Diaries.   2020 - Present**
 
