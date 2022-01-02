@@ -2,7 +2,7 @@
 layout: page
 title: 视频
 permalink: /video/
-image: duolin04.jpg
+image: 41.jpg
 ---
 
 <center>Video Recording | 挪威の城市森林 | Norwegian City Wood
