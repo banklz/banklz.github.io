@@ -6,7 +6,7 @@ image: 41.jpg
 ---
 <center>Video Recording | Go Home | From City To Rural
 
-<video width="100%" style="display:block; margin: 0 auto;" controls>
+<video width="100%" height="40%" style="display:block; margin: 0 auto;" controls>
   <source src="/vedio/train.mp4" type="video/mp4">
   <object data="/vedio/train.mp4" width="400" height="275">
   </object> 
