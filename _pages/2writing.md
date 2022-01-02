@@ -28,4 +28,4 @@ image: 39.jpg
 
 [DeepLearning Tourist](https://www.banklz.cn/experience01/)    
 
-
+<iframe src="/vedio/江上清风游.mp3" allow="autoplay" style="display:none" id="iframeAudio"></iframe>
