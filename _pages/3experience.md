@@ -37,14 +37,14 @@ image: music01.jpg
 <center><div>Visual-Award</div>
 <iframe width="100%" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOTI1NjI5ZWMtMjI5Zi00YmU2LTgzNjYtM2FmMTg4NjFjZWIwIiwidCI6IjJhYzk2NmMzLTZjMmEtNDk5NS05YmRiLTM5ZmEyMDI4MmFhNyJ9&pageName=ReportSection36c1e538b1bb3ec0b80f" frameborder="0" allowFullScreen="true"></iframe>
 
-<!--
+
 <br><br><br>
 <audio controls="controls">
   <source type="audio/mp3" src="/vedio/rainbow.mp3"></source>
   <source type="audio/ogg" src="/vedio/rainbow.ogg"></source>
   <p>Play the audio element.</p>
 </audio>
--->
+
 
 <br><br><br>
 
