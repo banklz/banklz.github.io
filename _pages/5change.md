@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 改变
+title: 书籍
 image: 27.jpg
-permalink: /others/
+permalink: /books/
 ---
 
 **<center> INFLUENCE </center>**
