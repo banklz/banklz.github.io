@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CHANGE
+title: 改变
 image: 童年.jpg
 permalink: /change/
 ---
