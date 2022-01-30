@@ -19,6 +19,7 @@ image: 39.jpg
 
 **琐碎集｜All Trivia**
 
+[直面真实的世界](https://www.banklz.cn/excerpt04/) 
 [2020-12-20自然演化过程](https://www.banklz.cn/writing05/)  
 [言清行浊](https://www.banklz.cn/comment02/) 
 
