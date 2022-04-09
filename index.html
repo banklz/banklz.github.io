@@ -6,7 +6,7 @@ layout: default
 	{% if site.posts.size > 0 %}
 		{%- for post in paginator.posts -%}
 		{% if forloop.index <= 1 %}
-		<div class="col col-16">
+		<div class="col col-12">
 			<article class="article-first">
 				<div class="article-image-first" style="background-image: url({{"/img/" | prepend: site.baseurl | append : post.image}})">
 					<div class="article-content-first">
@@ -26,7 +26,7 @@ layout: default
 
 <div class="container">
 	<div class="row">
-		<div class="col col-16 col-t-12">
+		<div class="col col-12 col-t-8">
 			<div class="row">
 			{%- for post in paginator.posts offset: 1 -%}
 				<article class="article col col-12 col-t-6">
@@ -49,12 +49,9 @@ layout: default
 			</div>
 			{% include pagination.html %}
 		</div>
-        <div class="col col-16 col-t-8">
+		<div class="col col-12 col-t-4">
 			{% include sidebar.html %}
-            <iframe  width="100%" src="https://app.powerbi.cn/view?r=eyJrIjoiNTNhODU2YzEtYTcxMi00M2Q5LTllZDctZGQ2MzFiOTBlMTc5IiwidCI6IjcwZDJjMTI5LTllMzEtNDJkNC05MGNjLWQ5OWI3ZGM2NTUxYiJ9&pageName=ReportSection099c17ae5820daee2226" frameborder="0" allowFullScreen="true"></iframe>
-        </div>
-		<div class="col col-16 col-t-4">
-			{% include sidebar.html %}
+            <iframe  width="100%" src="https://app.powerbi.cn/view?r=eyJrIjoiNTNhODU2YzEtYTcxMi00M2Q5LTllZDctZGQ2MzFiOTBlMTc5IiwidCI6IjcwZDJjMTI5LTllMzEtNDJkNC05MGNjLWQ5OWI3ZGM2NTUxYiJ9&pageName=ReportSection099c17ae5820daee2226" frameborder="0" allowFullScreen="true"></iframe><br><br>
 			<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BpMxVyXeTpCI3MgkOQ6S-ud90_VIfsCVUqEYlXm0oN4&cl=ffffff&w=a"></script>
 			<a href="https://info.flagcounter.com/5rIp"><img src="https://s11.flagcounter.com/count2/5rIp/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 		</div>
