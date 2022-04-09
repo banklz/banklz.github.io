@@ -27,7 +27,7 @@ image: 40.jpg
 <center><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="100%" src="//music.163.com/outchain/player?type=2&id=96113&auto=1&height=66"></iframe>
 -->
 
-<center><div>Big_Data Query</div><iframe width="100%" height="330.5" src="https://app.powerbi.cn/view?r=eyJrIjoiNzZlNWU4NTEtMGUwYS00OTRmLThjZjctMTMyZDFiN2Y2YmEzIiwidCI6IjcwZDJjMTI5LTllMzEtNDJkNC05MGNjLWQ5OWI3ZGM2NTUxYiJ9" frameborder="0" allowFullScreen="true"></iframe>
+<center><div>Big_Data Query</div><iframe width="100%" height="330.5" src="https://app.powerbi.cn/view?r=eyJrIjoiNTNhODU2YzEtYTcxMi00M2Q5LTllZDctZGQ2MzFiOTBlMTc5IiwidCI6IjcwZDJjMTI5LTllMzEtNDJkNC05MGNjLWQ5OWI3ZGM2NTUxYiJ9&pageName=ReportSection099c17ae5820daee2226" frameborder="0" allowFullScreen="true"></iframe>
 
 <br>
 <center><div>Business Analysis</div><iframe width="100%" height="330.5" src="https://app.powerbi.cn/view?r=eyJrIjoiOTRkODA1MmItMzI0ZS00NGM1LTg2NmEtMzAwM2YzNzJmODk4IiwidCI6IjcwZDJjMTI5LTllMzEtNDJkNC05MGNjLWQ5OWI3ZGM2NTUxYiJ9" frameborder="0" allowFullScreen="true"></iframe>
