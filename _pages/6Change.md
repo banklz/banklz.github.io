@@ -13,4 +13,8 @@ permalink: /change/
 <br>
 ![]({{site.baseurl}}/img/童年2.jpg) 
 <br>
-<p align="center"><font face="黑体" color="#99E080"><b>The love from a naughty mother<br><br></b></font><img src="https://raw.githubusercontent.com/banklz/banklz.github.io/master/img/love.jpg" align="middle" width="100%"></p>
+**<center><font face="黑体" color="#99E080">The love from a naughty mother</font></center>**
+<br>
+![]({{site.baseurl}}/img/love.jpg) 
+
+<!--<p align="center"><font face="黑体" color="#99E080"><b>The love from a naughty mother<br><br></b></font><img src="https://raw.githubusercontent.com/banklz/banklz.github.io/master/img/love.jpg" align="middle" width="100%"></p>-->
